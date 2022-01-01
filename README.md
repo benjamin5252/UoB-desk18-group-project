@@ -1,6 +1,7 @@
 <p align="center"><img src="resource_report/mainImg.png"width=60%>
 
-
+# Demo
+https://3000-14e94b9c-9492-4fba-abeb-c6d62c0f45a1.cs-asia-east1-jnrc.cloudshell.dev/?authuser=0
 ___
 
  ## What is ***CovidSurvival***
